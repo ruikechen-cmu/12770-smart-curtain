@@ -1,1 +1,3 @@
-# 12770-smaer-curtain
+# 12770-Smart-Curtain
+
+Ruike Chen, Louis Gou, Linna Zhang
